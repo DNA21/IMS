@@ -1,15 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\IMS.UseCases",
     "\\IMS.WebApp",
-    "\\IMS.WebApp\\bin",
-    "\\IMS.WebApp\\bin\\Debug",
-    "\\IMS.WebApp\\bin\\Debug\\net6.0",
-    "\\IMS.WebApp\\Components",
-    "\\IMS.WebApp\\Pages",
-    "\\IMS.WebApp\\Shared"
+    "\\IMS.WebApp\\Components"
   ],
-  "SelectedNode": "\\IMS.WebApp\\Shared\\NavMenu.razor",
+  "SelectedNode": "\\IMS.WebApp\\Components\\SearchInventoryComponent.razor",
   "PreviewInSolutionExplorer": false
 }
