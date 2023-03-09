@@ -1,6 +1,7 @@
 ﻿@page "/"
 
 @inject IViewInventoriesByNameUseCase ViewInventoriesByNameUseCase
+@inject IEditInventoryUseCase EditInventoryUseCase
 
 <PageTitle>Test Page</PageTitle>
 
@@ -17,6 +18,7 @@
 
     protected override async Task OnInitializedAsync()
     {
+
         _inventories = (await ViewInventoriesByNameUseCase.ExecuteAsync()).ToList();
     }
 }
