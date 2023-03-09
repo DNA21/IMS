@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yAhaGIoZDXxpFEa9QKNuM3X34coswM0oupKvfaIp7TOril0KHRsjP6H2gtGTwW1EMIjEttscAOKzKpN64Xc4iw==",
+  "dgSpecHash": "3i1S/nC0u/EqaV1NtENQbwcmjDx2Hz14rGJ8lXQoSJkJoGZ3dcbR4xzeo4siijHqPaKnMdcHa2p2SBND4SBOuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+  "projectFilePath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Inventory Project\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

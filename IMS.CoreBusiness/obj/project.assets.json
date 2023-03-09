@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+      "projectUniqueName": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Inventory Project\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
       "projectName": "IMS.CoreBusiness",
-      "projectPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+      "projectPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Inventory Project\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
       "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.CoreBusiness\\obj\\",
+      "outputPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Inventory Project\\IMS\\IMS.CoreBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dan\\AppData\\Roaming\\NuGet\\NuGet.Config",

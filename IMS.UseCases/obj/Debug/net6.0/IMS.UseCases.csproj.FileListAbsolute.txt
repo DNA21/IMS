@@ -1,15 +1,15 @@
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.AssemblyReference.cache
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.AssemblyInfoInputs.cache
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.AssemblyInfo.cs
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.CoreCompileInputs.cache
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.deps.json
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.dll
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.pdb
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.CoreBusiness.dll
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.CoreBusiness.pdb
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.CopyComplete
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.dll
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\obj\Debug\net6.0\refint\IMS.UseCases.dll
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.pdb
-C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.UseCases\obj\Debug\net6.0\ref\IMS.UseCases.dll
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.deps.json
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.dll
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.pdb
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.AssemblyInfo.cs
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.CopyComplete
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.dll
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\obj\Debug\net6.0\refint\IMS.UseCases.dll
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.pdb
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Inventory Project\IMS\IMS.UseCases\obj\Debug\net6.0\ref\IMS.UseCases.dll

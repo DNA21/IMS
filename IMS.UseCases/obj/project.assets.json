@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+      "projectUniqueName": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Inventory Project\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
       "projectName": "IMS.UseCases",
-      "projectPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+      "projectPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Inventory Project\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
       "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.UseCases\\obj\\",
+      "outputPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Inventory Project\\IMS\\IMS.UseCases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
-              "projectPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+            "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Inventory Project\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+              "projectPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Inventory Project\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
             }
           }
         }

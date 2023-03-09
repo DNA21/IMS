@@ -10,21 +10,18 @@
         type="button" 
         class="btn-success input-group-text"
         @onclick="OnSearch"
-    >
-        Search
-    </button>
+    >Search</button>
 </div>
 
-@code {
 
+@code {
     private string inventoryNameToSearch = string.Empty;
 
     [Parameter]
-    public EventCallback<string> OnSearchInventory { get; set; }
+    public EventCallback<string> OnSearchInventory { get; set;  }
 
     private void OnSearch()
     {
         OnSearchInventory.InvokeAsync(inventoryNameToSearch);
     }
-
 }

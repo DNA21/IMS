@@ -1,14 +1,12 @@
-@foreach(var inv in Inventories)
+﻿@foreach (var inv in Inventories)
 {
     <tr>
         <td>@inv.InventoryName</td>
         <td>@inv.Quantity</td>
         <td>@inv.Price.ToString("c")</td>
         <td>
-            <button 
-                type="button" 
-                class="btn btn-light"
-            ></button>
+            <button type="button"
+                    class="btn btn-light"></button>
         </td>
     </tr>
 }

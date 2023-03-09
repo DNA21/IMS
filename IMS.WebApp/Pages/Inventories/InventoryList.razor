@@ -1,11 +1,12 @@
 ﻿@page "/inventories"
 
-<h3>Inventory List</h3>
+<h3>InventoryList</h3>
 <br/>
-<SearchInventoryComponent
+<SearchInventoryComponent 
     OnSearchInventory="OnInventorySearch"></SearchInventoryComponent>
 <br/>
-<InventoryListComponent SearchTerm="@searchTerm"></InventoryListComponent>
+<InventoryListComponent 
+    SearchTerm="@searchTerm"></InventoryListComponent>
 
 @code {
     private string searchTerm = string.Empty;
@@ -14,5 +15,4 @@
     {
         this.searchTerm = searchTerm;
     }
-
 }

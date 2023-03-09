@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gIGTWOLU8vxc8IzRke1hjgvmhKW7fJgvQOcwxl0AZ7oq1XyvtW+1Oo70zVT2oZTFHn07ZpilltP17ux4Qf8PiQ==",
+  "dgSpecHash": "vC7ccIMr5bno1LNv5YHdF2vdyKoMVyHLXKxo9H53jmUvDq3SaJybnPNcqyByXFahyUiEBIBDt1ryREY2xSE8qA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+  "projectFilePath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Inventory Project\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
