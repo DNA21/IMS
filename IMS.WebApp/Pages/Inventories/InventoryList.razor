@@ -1,5 +1,7 @@
 ﻿@page "/inventories"
 
+@inject NavigationManager NavigationManager
+
 <h3>InventoryList</h3>
 <br/>
 <SearchInventoryComponent 
@@ -7,6 +9,14 @@
 <br/>
 <InventoryListComponent 
     SearchTerm="@searchTerm"></InventoryListComponent>
+<br/>
+<button 
+    type="button" 
+    class="btn btn-primary"
+    @onclick="AddInventory"
+>
+    Add Inventory
+</button>
 
 @code {
     private string searchTerm = string.Empty;
@@ -14,5 +24,10 @@
     private void OnInventorySearch(string searchTerm)
     {
         this.searchTerm = searchTerm;
+    }
+
+    private void AddInventory()
+    {
+        NavigationManager.NavigateTo("/addinventory");
     }
 }
