@@ -12,19 +12,6 @@
           "bin/placeholder/IMS.CoreBusiness.dll": {}
         }
       },
-      "IMS.Plugins.InMemory/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "IMS.UseCases": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/IMS.Plugins.InMemory.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/IMS.Plugins.InMemory.dll": {}
-        }
-      },
       "IMS.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -43,23 +30,17 @@
   "libraries": {
     "IMS.CoreBusiness/1.0.0": {
       "type": "project",
-      "path": "../IMS.CoreBusiness/IMS.CoreBusiness.csproj",
-      "msbuildProject": "../IMS.CoreBusiness/IMS.CoreBusiness.csproj"
-    },
-    "IMS.Plugins.InMemory/1.0.0": {
-      "type": "project",
-      "path": "../IMS.Plugins/IMS.Plugins.InMemory/IMS.Plugins.InMemory.csproj",
-      "msbuildProject": "../IMS.Plugins/IMS.Plugins.InMemory/IMS.Plugins.InMemory.csproj"
+      "path": "../../IMS.CoreBusiness/IMS.CoreBusiness.csproj",
+      "msbuildProject": "../../IMS.CoreBusiness/IMS.CoreBusiness.csproj"
     },
     "IMS.UseCases/1.0.0": {
       "type": "project",
-      "path": "../IMS.UseCases/IMS.UseCases.csproj",
-      "msbuildProject": "../IMS.UseCases/IMS.UseCases.csproj"
+      "path": "../../IMS.UseCases/IMS.UseCases.csproj",
+      "msbuildProject": "../../IMS.UseCases/IMS.UseCases.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "IMS.Plugins.InMemory >= 1.0.0",
       "IMS.UseCases >= 1.0.0"
     ]
   },
@@ -69,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
-      "projectName": "IMS.WebApp",
-      "projectPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+      "projectName": "IMS.Plugins.InMemory",
+      "projectPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
       "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.WebApp\\obj\\",
+      "outputPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,9 +71,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
-              "projectPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
-            },
             "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
               "projectPath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
             }
@@ -120,9 +98,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

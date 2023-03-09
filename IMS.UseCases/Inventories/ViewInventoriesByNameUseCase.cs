@@ -1,5 +1,5 @@
 ﻿using IMS.CoreBusiness;
-using IMS.UseCases.Inventories.PluginInterfaces;
+using IMS.UseCases.PluginInterfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
