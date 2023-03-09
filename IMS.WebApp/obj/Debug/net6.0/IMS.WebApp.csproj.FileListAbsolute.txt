@@ -30,3 +30,10 @@ C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.WebApp\obj\Debug\net
 C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.WebApp\obj\Debug\net6.0\IMS.WebApp.pdb
 C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.WebApp\obj\Debug\net6.0\IMS.WebApp.genruntimeconfig.cache
 C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.WebApp\obj\Debug\net6.0\ref\IMS.WebApp.dll
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.WebApp\bin\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.WebApp\bin\Debug\net6.0\IMS.Plugins.InMemory.dll
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.WebApp\bin\Debug\net6.0\IMS.UseCases.dll
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.WebApp\bin\Debug\net6.0\IMS.Plugins.InMemory.pdb
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.WebApp\bin\Debug\net6.0\IMS.UseCases.pdb
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.WebApp\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Users\Dan\Desktop\csharp\CsharpProjects\Projects\IMS\IMS.WebApp\obj\Debug\net6.0\IMS.WebApp.csproj.CopyComplete
