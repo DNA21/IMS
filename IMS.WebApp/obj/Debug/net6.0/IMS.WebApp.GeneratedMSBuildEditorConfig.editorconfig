@@ -32,6 +32,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbnZlbnRvcmllc1xTZWFyY2hJbnZlbnRvcnlDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Dan/Desktop/csharp/CsharpProjects/Inventory Project/IMS/IMS.WebApp/Components/Products/ProductListComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0c1xQcm9kdWN0TGlzdENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dan/Desktop/csharp/CsharpProjects/Inventory Project/IMS/IMS.WebApp/Components/Products/ProductListItemComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0c1xQcm9kdWN0TGlzdEl0ZW1Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dan/Desktop/csharp/CsharpProjects/Inventory Project/IMS/IMS.WebApp/Components/Products/SearchProductComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0c1xTZWFyY2hQcm9kdWN0Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Dan/Desktop/csharp/CsharpProjects/Inventory Project/IMS/IMS.WebApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,6 +66,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Dan/Desktop/csharp/CsharpProjects/Inventory Project/IMS/IMS.WebApp/Pages/Inventories/InventoryList.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZW50b3JpZXNcSW52ZW50b3J5TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dan/Desktop/csharp/CsharpProjects/Inventory Project/IMS/IMS.WebApp/Pages/Products/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcUHJvZHVjdExpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Dan/Desktop/csharp/CsharpProjects/Inventory Project/IMS/IMS.WebApp/Shared/SurveyPrompt.razor]
