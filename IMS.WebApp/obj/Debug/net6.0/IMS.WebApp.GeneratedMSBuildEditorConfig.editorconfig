@@ -92,6 +92,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Dan/Desktop/csharp/CsharpProjects/Inventory Project/IMS/IMS.WebApp/Components/Common/AutoCompleteComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21tb25cQXV0b0NvbXBsZXRlQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-0wuy1otnbv
+
 [C:/Users/Dan/Desktop/csharp/CsharpProjects/Inventory Project/IMS/IMS.WebApp/Components/Inventories/SearchAndDisplayInventoriesComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbnZlbnRvcmllc1xTZWFyY2hBbmREaXNwbGF5SW52ZW50b3JpZXNDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-yzye5fhjel

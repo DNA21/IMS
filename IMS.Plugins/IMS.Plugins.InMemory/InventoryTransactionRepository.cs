@@ -11,7 +11,7 @@ namespace IMS.Plugins.InMemory
     public class InventoryTransactionRepository : IInventoryTransactionRepository
     {
 
-        public List<InventoryTransaction> _inventoryTransactions = new List<InventoryTransactionRepository>();
+        public List<InventoryTransaction> _inventoryTransactions = new List<InventoryTransaction>();
 
         public void PurchaseAsync(string poNumber, Inventory inventory, int quantity, string doneBy, double price)
         {
