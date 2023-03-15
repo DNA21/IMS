@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FSzsGx0FKEgKUlUPcGQKsJszk67YsfM4B04PGF+l/GhOKLBI9z3o4Ia5ZYwn0/6rJc7Ipk+xeE5F+3i/z7Nklw==",
+  "dgSpecHash": "C6PSQxA60n05P99Fm/YDhxpYCJsQYV2+6SnEtDp0LDnFJoUwBDmQNbFWj0K33AAAQHXcQeDaliOhGTy/ra35QQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Inventory Project\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

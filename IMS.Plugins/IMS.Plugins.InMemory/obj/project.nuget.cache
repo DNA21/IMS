@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vC7ccIMr5bno1LNv5YHdF2vdyKoMVyHLXKxo9H53jmUvDq3SaJybnPNcqyByXFahyUiEBIBDt1ryREY2xSE8qA==",
+  "dgSpecHash": "98wNBvtqhrg0nAhu8co5BjfOeqQ4ounNvLoy+XMJYM9p9Dko743uK2s6umG8g9D6DT4DIWVe0qpU7aJy8MZr9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dan\\Desktop\\csharp\\CsharpProjects\\Inventory Project\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
