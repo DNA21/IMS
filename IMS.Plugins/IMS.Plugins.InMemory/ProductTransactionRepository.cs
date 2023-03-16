@@ -18,17 +18,18 @@ namespace IMS.Plugins.InMemory
 
         public ProductTransactionRepository(
             IProductRepository productRepository, 
-            IInventoryTransactionRepository inventoryTransactionRepository
+            IInventoryTransactionRepository inventoryTransactionRepository,
             IInventoryRepository inventoryRepository)
         {
             this.productRepository = productRepository;
             this.inventoryTransactionRepository = inventoryTransactionRepository;
             this.inventoryRepository = inventoryRepository;
         }
-        public async Task ProduceAsync(string productionNumber, Product product, int quantity, double price, string doneBy)
+
+        public async Task ProduceAsync(string productionNumber, Product product, int quantity, string doneBy)
         {
             var prod = await this.productRepository.GetProductByIdAsync(product.ProductId);
-            if (prod == null) 
+            if (prod != null) 
             {
                 foreach(var pi in prod.ProductInventories)
                 {

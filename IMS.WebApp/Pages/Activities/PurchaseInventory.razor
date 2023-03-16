@@ -6,9 +6,11 @@
 @inject IViewInventoryByIdUseCase ViewInventoryByIdUseCase
 @inject IPurchaseInventoryUseCase PurchaseInventoryUseCase
 
+@inject IJSRuntime JSRuntime
+
 <h3>Purchase Inventory</h3>
 <br/>
-<EditForm Model="purchaseViewModel" OnValidSubmit="Purchase">
+<EditForm id="purchaseForm" Model="purchaseViewModel" OnValidSubmit="Purchase">
     <DataAnnotationsValidator></DataAnnotationsValidator>
     <ValidationSummary></ValidationSummary>
 
@@ -50,8 +52,17 @@
 @code {
 
     private PurchaseViewModel purchaseViewModel = new PurchaseViewModel();
-
     private Inventory? selectedInventory = null;
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        base.OnAfterRender(firstRender);
+
+        if(firstRender)
+        {
+            JSRuntime.InvokeVoidAsync("PreventFormSubmition", "purchaseForm");
+        }
+    }
 
     private async Task Purchase()
     {
